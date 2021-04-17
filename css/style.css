@@ -9,4 +9,27 @@
   background-color: lightgray;
 }
 
+h1 {
+  font-size: 3.75em;
+  font-weight: bold;
+  margin: 20px;
+}
 
+h2 {
+  font-size: 4.75em;
+}
+
+#control-menu {
+  width: 100vw;
+  font-size: 3em;
+  background-color: none;
+}
+
+
+
+
+button {
+  width: 75%;
+  padding: .2em;
+  margin: .4em;
+}
